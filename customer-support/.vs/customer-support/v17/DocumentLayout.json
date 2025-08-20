@@ -1,7 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\repositories\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\models\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\models\\bugreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\models\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\repositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\repositories\\iticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\enums\\ticketstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\models\\knowledgebasearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\models\\knowledgebasearticle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\controllers\\knowledgebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\controllers\\knowledgebasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|c:\\users\\hp\\desktop\\datalinks internship program\\eope\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B3BAFD5-35A8-4C2C-A058-628201FA9231}|customer-support-api\\customer-support-api.csproj|solutionrelative:customer-support-api\\enums\\priority.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +71,136 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BugReport.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Models\\BugReport.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Models\\BugReport.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Models\\BugReport.cs",
+              "RelativeToolTip": "customer-support-api\\Models\\BugReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:29:16.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Program.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Program.cs",
+              "RelativeToolTip": "customer-support-api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:27:45.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "KnowledgeBaseController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Controllers\\KnowledgeBaseController.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Controllers\\KnowledgeBaseController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Controllers\\KnowledgeBaseController.cs",
+              "RelativeToolTip": "customer-support-api\\Controllers\\KnowledgeBaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:15:01.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KnowledgeBaseArticle.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Models\\KnowledgeBaseArticle.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Models\\KnowledgeBaseArticle.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Models\\KnowledgeBaseArticle.cs",
+              "RelativeToolTip": "customer-support-api\\Models\\KnowledgeBaseArticle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T13:08:46.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Controllers\\TicketsController.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "customer-support-api\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAvwCkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:42:20.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Repositories\\TicketRepository.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Repositories\\TicketRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Repositories\\TicketRepository.cs*",
+              "RelativeToolTip": "customer-support-api\\Repositories\\TicketRepository.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:05:50.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITicketRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Repositories\\ITicketRepository.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Repositories\\ITicketRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Repositories\\ITicketRepository.cs",
+              "RelativeToolTip": "customer-support-api\\Repositories\\ITicketRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T12:01:32.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Priority.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Enums\\Priority.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Enums\\Priority.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Enums\\Priority.cs",
+              "RelativeToolTip": "customer-support-api\\Enums\\Priority.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:58:51.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TicketStatus.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Enums\\TicketStatus.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Enums\\TicketStatus.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Enums\\TicketStatus.cs",
+              "RelativeToolTip": "customer-support-api\\Enums\\TicketStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:55:29.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Models\\Ticket.cs",
+              "RelativeDocumentMoniker": "customer-support-api\\Models\\Ticket.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Datalinks Internship Program\\EOPE\\backend-end-of-probation-exercises-v3\\customer-support\\customer-support-api\\Models\\Ticket.cs",
+              "RelativeToolTip": "customer-support-api\\Models\\Ticket.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T11:52:09.661Z",
+              "EditorCaption": ""
             }
           ]
         },

@@ -1,6 +1,9 @@
 ﻿namespace customer_support_api.Enums
 {
-    public class Priority
+    public enum Priority
     {
+        Low,
+        Medium,
+        High
     }
 }

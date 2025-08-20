@@ -1,13 +1,14 @@
 ﻿using customer_support_api.Enums;
 using customer_support_api.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace customer_support_api.Repositories
 {
     public class TicketRepository : ITicketRepository
     {
-        public readonly List<Ticket> _tickets = new();
+        public static readonly List<Ticket> _tickets = new();
 
-        public Ticket Add(Ticket ticket)
+        public Ticket Add([FromBody]Ticket ticket)
         {
             _tickets.Add(ticket);
             return ticket;
