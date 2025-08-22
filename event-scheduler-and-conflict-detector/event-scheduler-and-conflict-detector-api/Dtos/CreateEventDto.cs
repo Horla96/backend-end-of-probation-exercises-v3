@@ -13,4 +13,3 @@ namespace event_scheduler_and_conflict_detector_api.Dtos
         public EventType EventType { get; set; }
     }
 }
-}
